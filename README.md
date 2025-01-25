@@ -1,11 +1,15 @@
-<h1 align="center">Hi, I'm Ima King! 🐣</h1>
+<h1 align="center">Hi, I'm Ima King! 🐣 </h1>
 <div align="center">
  <!--![Typing on the computer]()-->
 <h3>Languages and Tools</h3>
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+</div>
+<div align="center">
+ 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-</div>
+ 
+</div> 
   <hr style="border: 0.1em solid black;">
 
   <p>
@@ -15,7 +19,12 @@
         <li>FrontEnd Development Libraries Certification</li>
   </p>
 
-
+<div>
+ <h3>A little more about me:</h3>
+    <li>When I'm not coding, I'm reading a novel.</li>
+    <li>I love writing, and my favourite genre is Thriller.</li>
+    <li>I once in a blue moon focus on my art.</li>
+</div>
 
 <!--
 **kodeima/kodeima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
