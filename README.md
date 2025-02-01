@@ -22,8 +22,8 @@
 <div>
  <h3>A little more about me:</h3>
     <li>When I'm not coding, I'm reading a novel.</li>
-    <li>I love writing, and my favourite genre is Thriller.</li>
-    <li>I once in a blue moon focus on my art.</li>
+    <li>I love writing, and my favourite genre to write is Thriller.</li>
+    <li>I, once in a blue moon, focus on my art.</li>
 </div>
 
 <!--
