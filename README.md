@@ -1,29 +1,39 @@
-<h1 align="center">Hi, I'm Joyce King! </h1>
-<div align="center">
- <!--![Typing on the computer]()-->
-<h3>Languages and Tools</h3>
-</div>
-<div align="center">
- 
-https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkodeima%2Fkodeima%2Frefs%2Fheads%2Fmain%2Fpython_badge.json&query=%24.status&logo=python&label=Python
+<h1 align="center">Hi, I'm Joyce King 👋</h1>
 
+<p align="center">
+Data Engineer | Python & SQL | Data → Insights
+</p>
 
-</div> 
-  <hr style="border: 0.1em solid black;">
+---
 
-  <p>
-    <h3>I'm a --budding coder-- currently working on:</h3>
-        <li>Responsive Web Design Cerification</li>
-        <li>JavaScript Algorithm and Data Structure Certification</li>
-        <li>FrontEnd Development Libraries Certification</li>
-  </p>
+### 🛠 Languages and Tools
 
-<div>
- <h3>A little more about me:</h3>
-    <li>When I'm not coding, I'm reading a novel.</li>
-    <li>I love writing, and my favourite genre to write is Thriller.</li>
-    <li>I, once in a blue moon, focus on my art.</li>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/kodeima/kodeima/main/python_badge.json&query=$.status&label=Python&logo=python&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/kodeima/kodeima/main/sql_badge.json&query=$.focus&label=SQL&logo=mysql&color=orange" />
+</p>
+
+---
+
+### 👩🏽‍💻 I'm a Data Engineer currently working on:
+- Strengthening my **Python** and **SQL** skills
+- Practicing **data analysis** with real-world datasets
+- Building simple **data pipelines and transformations**
+- Learning **ETL concepts** and data engineering fundamentals
+- Preparing for a career in **data engineering**
+
+---
+
+### 🌱 Currently Learning
+- Pandas & NumPy
+- SQL joins and subqueries
+- Data engineering best practices
+
+---
+
+### 📂 Projects
+- **House Price Prediction** – Built a regression model using Python
+- **Sales Data Analysis** – Cleaned and analyzed sales data with Pandas
 
 <!--
 **kodeima/kodeima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
