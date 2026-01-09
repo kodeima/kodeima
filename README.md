@@ -5,10 +5,9 @@
 </div>
 <div align="center">
  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
- 
+https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkodeima%2Fkodeima%2Frefs%2Fheads%2Fmain%2Fpython_badge.json&query=%24.status&logo=python&label=Python
+
+
 </div> 
   <hr style="border: 0.1em solid black;">
 
