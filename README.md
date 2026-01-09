@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ima King! 🐣 </h1>
+<h1 align="center">Hi, I'm Joyce King! </h1>
 <div align="center">
  <!--![Typing on the computer]()-->
 <h3>Languages and Tools</h3>
