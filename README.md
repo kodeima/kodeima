@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joyce King 👋</h1>
 
 <p align="center">
-Data Engineer | Python & SQL | Data → Insights
+Database Admin | Data Analyst | Python & SQL | Data → Insights
 </p>
 
 ---
@@ -15,19 +15,19 @@ Data Engineer | Python & SQL | Data → Insights
 
 ---
 
-### 👩🏽‍💻 I'm a Data Engineer currently working on:
+### 👩🏽‍💻 I'm an aspiring Database Administrator currently working on:
 - Strengthening my **Python** and **SQL** skills
 - Practicing **data analysis** with real-world datasets
 - Building simple **data pipelines and transformations**
 - Learning **ETL concepts** and data engineering fundamentals
-- Preparing for a career in **data engineering**
+- Preparing for a career in **data analytics | database administration**
 
 ---
 
 ### 🌱 Currently Learning
 - Pandas & NumPy
 - SQL joins and subqueries
-- Data engineering best practices
+- Database management best practices
 
 ---
 
