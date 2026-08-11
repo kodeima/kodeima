@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Joyce King 👋</h1>
 
 <p align="center"> Backend Developer | Data Analyst | Python & SQL <br> Turning Data into Insights | Building Data-Driven Applications </p>
----
+
 
 ### 🛠️ Languages & Tools
 
